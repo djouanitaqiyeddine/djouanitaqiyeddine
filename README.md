@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @djouanitaqiyeddine
-- 👀 I’m interested in Networking, programmation and automate complex networking architecture
+- 👀 I’m interested in Networking, programmation and automate complex networking architectures
 - 🌱 I’m currently learning Networking,linux and Python 
 - 💞️ I’m looking to collaborate on ( Not yet )
 - 📫 How to reach me : djouani.taqiyeddine@gmail.com
